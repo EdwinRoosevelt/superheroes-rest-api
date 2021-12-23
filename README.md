@@ -1,1 +1,1 @@
-This is the source code for the Superheroes REST API django project.
+This is the source code for the Superheroes REST API project.
